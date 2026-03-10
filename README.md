@@ -4,6 +4,8 @@ A reproducible analysis of morphological measurements from the Palmer Penguins d
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
 
+This is me practicing editing the file!
+
 
 ## About the Data
 
