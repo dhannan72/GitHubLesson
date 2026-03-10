@@ -16,11 +16,9 @@ This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos
 
 **Species studied:** Gentoo, Emperor, and Adelie penguins. 
 
-**Research location:** [TODO: Which three islands were the penguins observed on? Hint: check the `island` column in `data/penguins_raw.csv`]
+**Research location:** Definitely the south atlantic, I will guess Antarctica, South Georgia and the Falklands. But do you count Antarctica as an island. What does it mean to be an island. 
 
-**Sample size:** 1,000,0000,000,000,000,000
-
-**Years of data collection:** hard to tell, time travel was used
+**Sample size:** More than ten
 
 ## Variables Measured
 
@@ -37,7 +35,7 @@ The dataset includes the following morphological measurements:
 
 The R script `run_analysis_SOLUTIONS.R` performs the following steps:
 
-1. **Data cleaning** -- [TODO: What does the cleaning step do to handle missing values? Hint: look at section 3 and 4 of the script]
+1. **Data cleaning** -- The cleaning removes the missing values and the row which relates to them to enable correct analysis. 
 2. **Exploratory boxplots** -- [TODO: Which variable is plotted against species in the first boxplot? Hint: look at section 5]
 3. **Cluster analysis** -- [TODO: Which two measurements are used to show how species cluster? Hint: look at section 7]
 4. **Regression analysis** -- [TODO: What relationship does the regression plot examine? Hint: look at section 7]
@@ -78,6 +76,5 @@ Horst AM, Hill AP, Gorman KB (2020). *palmerpenguins: Palmer Archipelago (Antarc
 
 ## Authors
 
-[TODO: Add your name here! This is a great first commit.]
-
+James Godden
 
