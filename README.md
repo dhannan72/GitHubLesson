@@ -1,5 +1,8 @@
 # Penguin Analysis
 
+WE ARE MAKING CHANGES FOR THIS EXCERICSE
+I'M SURE JAMES IS BEING DEVIOUS IN HIS BRANCH
+
 A reproducible analysis of morphological measurements from the Palmer Penguins dataset, examining variation in body dimensions across penguin species in the Palmer Archipelago, Antarctica.
 
 <img src="https://allisonhorst.github.io/palmerpenguins/reference/figures/lter_penguins.png" width=50%>
@@ -11,13 +14,11 @@ This is me practicing editing the file!
 
 This project uses data collected by [Dr Kristen Gorman](https://www.uaf.edu/cfos/people/faculty/detail/kristen-gorman.php) at the [Palmer Station Long Term Ecological Research](https://pallter.marine.rutgers.edu/) site in Antarctica.
 
-**Species studied:** Gentoo, Chinstrap, and Adelie penguins. 
+**Species studied:** Gentoo, Emperor, and Adelie penguins. 
 
 **Research location:** Definitely the south atlantic, I will guess Antarctica, South Georgia and the Falklands. But do you count Antarctica as an island. What does it mean to be an island. 
 
 **Sample size:** More than ten
-
-**Years of data collection:** Many many years. 
 
 ## Variables Measured
 
